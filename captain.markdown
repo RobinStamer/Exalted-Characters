@@ -1,3 +1,5 @@
+##Attributes
+
      Strength     ●●○○○       Charisma      ●●●○○       Perception    ●○○○○
      Dexterity    ●●●●●       Manipulation  ●●●●●       Intelligence  ●●○○○
      Stamina      ●●○○○       Appearance    ●●●○○       Wits          ●●●●○
@@ -18,7 +20,7 @@
     *Occult       ●●○○○
     &Performance  ●●●●● (Persuasion) 2
      Resistance   ●●●○○
-    &Sail         ●●●○○ (Flying Ships) 2
+    &Sail         ●○○○○ (Flying Ships) 2
      Socialize    ●●●○○ (Lying) 2
     *Stealth      ●●○○○
 
@@ -29,11 +31,12 @@
 
 ##Backgrounds
 
-     Artifact     ●●●●○ [5m] (IRA: Ori/Starmetal)
+     Artifact     ●●●○○ [5m] (IRA: Ori/Starmetal)
      Artifact     ●●●○○ [0m] (Cache Egg)
+     Artifact     ●●●○○ [5m] (Amulet of Shadow Walking)
      Artifact     ●●○○○ [5m] (Floating Ribbon)
      Artifact     ●●○○○ [4m] (Jade HS Bracers)
-     Salary       ●●●○○ 
+     Salary       ●●○○○ 
      Sifu         ●●○○○ (5DS, White Veil, Throne Shadow, Water Dragon, Sapphire Veil of Passion)
 
 ##BP
@@ -42,9 +45,8 @@
      3 WP         5->8
      1 Perf       4->5
      2 Martial    3->5
-     2 Sail       1->3
      1 Socialize
-     2 IRA        3->4
+     2 Backgrouns     
      4 Specs
 
 ##Intimacies
@@ -55,21 +57,24 @@
     My sorrows                       ●●●    (Curable With Alchohol)
     Alchohol                         ●●●    (My One True Friend)
     Women                            ●●●    (Why Are They Always Mad?)
+    Open Flames                      ●●●    (Fear)
 
 ##Attacks
 
-    Name                 Speed  Accuracy  Damage  Rate  Range  Defense  Notes
-    Fist                 5      11        2B      3     --      12  6
-    Kick                 6      10        5B      2     --       8  4
-    Floating Ribbon      5      17        10L/2   2     --      13  7   O, R; Attune(5), 1m to stretch 10 yards
-    Ex Slashing Sword    4       8        6L      3     --      11  6
-    Ex Target Shield     5      10        3B      1     --      15  8   M, Sh0
+    Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
+    Fist                    5      11        2B      3     --      12  6
+    Kick                    6      10        5B      2     --       8  4
+    Floating Ribbon (Melee) 5      10        10L/2   2     --       6  3   O, R; Attune(5), 1m to stretch 10 yards
+    Floating Ribbon         5      17        10L/2   2     --      13  7   O, R; Attune(5), 1m to stretch 10 yards
+    Ex Slashing Sword       4       8        6L      3     --      11  6
+    Ex Target Shield        5      10        3B      1     --      15  8   M, Sh0
 
 ###Resources
 
     Essence       2   *Compassion    3    Temperance    1
     Willpower     8    Conviction    3    Valor         2
     Personal      12   Peripheral   29
+    Commited      19
 
     DDV           7    Perf DDV      8
     MDV           5    Lying DV      5
