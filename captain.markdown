@@ -9,20 +9,19 @@
      Awareness    ●●○○○
      Bureaucracy  ●●○○○
     &Craft        ●●○○○ (Air) (Prayer Strips) 3
-     Dodge        ●●●○○
     *Investigate  ●●●○○
      Integrity    ●○○○○
     *Larceny      ●●●○○
      Linguistics  ●○○○○
     *Lore         ●●●○○
-    &Martial Arts ●●●●● (Floating Ribbon) 3
-     Melee        ●○○○○
+    &Martial Arts ●●●●● (Swords) 3
+     Melee        ●●●○○
     *Occult       ●●○○○
     &Performance  ●●●●● (Persuasion) 2
      Resistance   ●●●○○
-    &Sail         ●○○○○ (Flying Ships) 2
+    &Sail         ●●○○○ (Flying Ships) 2
      Socialize    ●●●○○ (Lying) 2
-    *Stealth      ●●○○○
+    *Stealth      ●●●●●
 
 ##Colleges
 
@@ -31,23 +30,37 @@
 
 ##Backgrounds
 
-     Artifact     ●●●○○ [5m] (IRA: Ori/Starmetal)
+     Artifact     ●●●○○ [5m] (IRA: Starmetal)
      Artifact     ●●●○○ [0m] (Cache Egg)
      Artifact     ●●●○○ [5m] (Amulet of Shadow Walking)
      Artifact     ●●○○○ [5m] (Floating Ribbon)
      Artifact     ●●○○○ [4m] (Jade HS Bracers)
      Salary       ●●○○○ 
-     Sifu         ●●○○○ (5DS, White Veil, Throne Shadow, Water Dragon, Sapphire Veil of Passion)
+     Sifu         ●●●●○ 
+         [5DS, White Veil, First Pulse, Golden Janisary, Seafaring Hero]
+         [Crystal Chameleon, Throne Shadow, Water Dragon, Black Claw, Velvet Briers of Sorrow]
+         [Sapphire Veil of Passion, 2 more...]
 
 ##BP
 
-     5 WD Charm
      3 WP         5->8
-     1 Perf       4->5
-     2 Martial    3->5
-     1 Socialize
-     2 Backgrouns     
+     5 Backgrounds 
+     6 Favored Abilities    
      4 Specs
+
+##Mundane Inventory
+
+###IRA
+
+    1000 pounds of alchohol, mostly wiskey and ale
+    17          slashing swords
+    9 people's  traveling supplies (food, sewing kits, med kits
+    40          ropes
+
+###Cache Egg
+
+    20          blankets
+    
 
 ##Intimacies
 
@@ -64,10 +77,8 @@
     Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
     Fist                    5      11        2B      3     --      12  6
     Kick                    6      10        5B      2     --       8  4
-    Floating Ribbon (Melee) 5      10        10L/2   2     --       6  3   O, R; Attune(5), 1m to stretch 10 yards
     Floating Ribbon         5      17        10L/2   2     --      13  7   O, R; Attune(5), 1m to stretch 10 yards
-    Ex Slashing Sword       4       8        6L      3     --      11  6
-    Ex Target Shield        5      10        3B      1     --      15  8   M, Sh0
+    Ex Slashing Sword       4       8        6L      3     --       9  5
 
 ###Resources
 
@@ -80,23 +91,19 @@
     MDV           5    Lying DV      5
 
     Nat Soak       3B   1L   0A
-    Armor Soak     9B   7L   7A  Ex Lamellar (Mob -1, Fat 1)
-    Total Soak    12B   8L   7A
+    Armor Soak     1B   1L   1A
+    Optimistic SP  9B   6L   6A
 
 ##Charms
 
 ###Resistance
 
     Fire and Water Treaty
+    Optimistic Security Practice
 
-###Craft (2)
+###Craft
 
     Elemental Vision (Secrets)
-
-###Dodge
-
-    Absence
-    Duck Fate
 
 ###Performance (2)
 
@@ -104,10 +111,20 @@
     Perfection in Life
     Defesnse of Shining Joy
 
-###Lore (2)
+###Melee
 
-###Stealth (2)
+    Impeeding the Flow
+
+###Lore
+
+###Larceny
+
+    Avoiding the Truth Technique
 
 ###Martial Arts (2)
 
-    Flowing Water Defense
+####Velvet Bier of Sorrows
+
+    Secrets of Future Strife
+
+###Stealth (2)
