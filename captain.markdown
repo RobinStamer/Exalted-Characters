@@ -1,17 +1,22 @@
 ##Attributes
 
-     Strength     ●●○○○       Charisma      ●●●○○       Perception    ●○○○○
-     Dexterity    ●●●●●       Manipulation  ●●●●●       Intelligence  ●●○○○
-     Stamina      ●●○○○       Appearance    ●●●○○       Wits          ●●●●○
+     Strength     ●○○○○       Charisma      ●●○○○       Perception    ●●●○○
+     Dexterity    ●●●●●       Manipulation  ●●●●●       Intelligence  ●●●○○
+     Stamina      ●○○○○       Appearance    ●●●●○       Wits          ●●●○○
 
 ##Abilities
 
      Awareness    ●●○○○
      Bureaucracy  ●●○○○
-    &Craft        ●●○○○ (Air) (Prayer Strips) 3
+    &Craft        ●●●●●
+                  Air      (Prayer Strips) 3
+                  Earth
+                  Fire
+                  Genesis
+                  Magitech
     *Investigate  ●●●○○
      Integrity    ●○○○○
-    *Larceny      ●●●○○
+    *Larceny      ●●●●●
      Linguistics  ●○○○○
     *Lore         ●●●○○
     &Martial Arts ●●●●● (Swords) 3
@@ -32,10 +37,11 @@
 
      Artifact     ●●●○○ [5m] (IRA: Starmetal)
      Artifact     ●●●○○ [0m] (Cache Egg)
-     Artifact     ●●●○○ [5m] (Amulet of Shadow Walking)
+     Artifact     ●●●●○ [5m] (Amulet of Shadow Walking)
      Artifact     ●●○○○ [5m] (Floating Ribbon)
      Artifact     ●●○○○ [4m] (Jade HS Bracers)
      Salary       ●●○○○ 
+     Savant       ●●●○○
      Sifu         ●●●●○ 
          [5DS, White Veil, First Pulse, Golden Janisary, Seafaring Hero]
          [Crystal Chameleon, Throne Shadow, Water Dragon, Black Claw, Velvet Briers of Sorrow]
@@ -44,8 +50,8 @@
 ##BP
 
      3 WP         5->8
-     5 Backgrounds 
-     6 Favored Abilities    
+    10 Backgrounds 
+    11 Favored Abilities    
      4 Specs
 
 ##Mundane Inventory
