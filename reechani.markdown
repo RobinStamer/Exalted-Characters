@@ -98,30 +98,30 @@
 
 ###Resistance
 
-    5m1w1B  S5,-1  Fire and Water Treaty                             : Indef, Protection from Element (must have sample)
-    5m      Ref 7  Optimistic Security Practice                      : Scene, +E+Res Soak
+    5m1w1B  S5,-1  Fire and Water Treaty                   : Indef, Protection from Element (must have sample)
+    5m      Ref 7  Optimistic Security Practice            : Scene, +E+Res Soak
 
 ###Craft
 
-    --      Perm   Elemental Vision (Secrets)                        : Compassion, TN -1, vs all Spirits and DBs associated with Water, or Craft 4+
+    --      Perm   Elemental Vision (Secrets)              : Compassion, TN -1, vs all Spirits and DBs associated with Water, or Craft 4+
 
 ###Performance (2)
 
-    //--      Perm   Heart-Brightening Presentation Style              : Compassion, Perf, Bur, Pres, Soc Exs interchangable, first Compassion channel in scene is 0wp
-    //5m,1wp  S5,-1  Defesnse of Shining Joy                           : Combo-No, Scene, use Perf or Dodge for DDV, ignore Perf pens to it, reduce action pens by 1
-    5m      Sup    Perfection in Life                                : Compassion, (must enhance belief or behavior), if the target doesn't resist they may get +1wp
-    5m1w    SL4,-1 Song of Spirit Persuasion                         : Basic, Servitude, 1 wp to resist for a scene, Intimacy is formed every 25 hours for a Story.  Can become Ally.
+    //--      Perm   Heart-Brightening Presentation Style    : Compassion, Perf, Bur, Pres, Soc Exs interchangable, first Compassion channel in scene is 0wp
+    //5m,1wp  S5,-1  Defesnse of Shining Joy                 : Combo-No, Scene, use Perf or Dodge for DDV, ignore Perf pens to it, reduce action pens by 1
+    5m      Sup    Perfection in Life                      : Compassion, (must enhance belief or behavior), if the target doesn't resist they may get +1wp
+    5m1w    SL4,-1 Song of Spirit Persuasion               : Basic, Servitude, 1 wp to resist for a scene, Intimacy is formed every 25 hours for a Story.  Can become Ally.
 
 ###Larceny
 
-    3m      Sup    Avoiding the Truth Technique                      : Compassion, Illusion, UMI (3), +E sux; convinces people that what was said was a lie
+    3m      Sup    Avoiding the Truth Technique            : Compassion, Illusion, UMI (3), +E sux; convinces people that what was said was a lie
 
 ###Occult
 
-    3m      S5,-1  Mark of Exaltation                                : Compassion, Obvious, Scene, +1 App vs characters who see the light
-                                                                     ; 50E yards anyone who can see the light can see all demat spirits
-                                                                     l Spirits and Secrets can see the light.
-    5m      S5,-0  Telltale Symphony                                 : Basic, Hour, Sonar version of AESS (222)
+    3m      S5,-1  Mark of Exaltation                      : Compassion, Obvious, Scene, +1 App vs characters who see the light
+                                                           ; 50E yards anyone who can see the light can see all demat spirits
+                                                           ; Spirits and Secrets can see the light.
+    5m      S5,-0  Telltale Symphony                       : Basic, Hour, Sonar version of AESS (222)
 
 ###Stealth (2)
 
@@ -129,5 +129,5 @@
 
 ####Velvet Bier of Sorrows
 
-    3m      Sup    Secrets of Future Strife                          : (MA) dice from JB converted to sux
-    5m1wp   Ref 1  Blade of the Battle Maiden                        : Obvious, Scene, Add Starmetal Daiklave stats to MA attacks, or Starmetal stats to weapons
+    3m      Sup    Secrets of Future Strife                : (MA) dice from JB converted to sux
+    5m1wp   Ref 1  Blade of the Battle Maiden              : Obvious, Scene, Add Starmetal Daiklave stats to MA attacks, or Starmetal stats to weapons
