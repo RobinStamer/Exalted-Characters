@@ -1,6 +1,6 @@
 #Reechani Sentrosi Vasi
 
-*Caste*: Secrets
+*Caste*: Secrets<br />
 *Motivation*: Understand the purpose of the secret he keeps
 
 ##Attributes
