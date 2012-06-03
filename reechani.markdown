@@ -10,7 +10,7 @@
      Awareness    ●●○○○
      Bureaucracy  ●●○○○
     &Craft        ●●●●●
-                  Air      (Prayer Strips) 3
+                  Air
                   Earth
                   Fire
                   Genesis
@@ -22,7 +22,7 @@
     *Lore         ●●●○○
     &Martial Arts ●●●●● (Fists) 3
     *Occult       ●●●○○
-    &Performance  ●●●●● (Persuasion) 2
+    &Performance  ●●●●● (Persuasion) 3
      Resistance   ●●●○○
      Socialize    ●●●○○ (Lying) 2
     *Stealth      ●●●●●
@@ -38,7 +38,7 @@
      Artifact     ●●●●○ [5m] (IRA: Starmetal/Moonsilver)
      Artifact     ●●●●○ [1m] (Wings of the Raptor; (10m) 80 MPH, +6 Stealth dice)
      --Artifact     ●●●●○ [5m] (Amulet of Shadow Walking, 10m insub, 5m teleport 10E yards [misc])
-     Artifact     ●●○○○ [4m] (Jade HS Bracers, -1 Speed)
+     Artifact     ●●●○○ [4m] (Jade HS Bracers, -1 Speed)
      Manse        ●●●●○ Sheilding Block (1wp) +2E Soak, +2E Hardness (stackable) for one scene
      Salary       ●●○○○
      Savant       ●●●○○
@@ -51,8 +51,8 @@
 
      3 WP         5->8
     12 Backgrounds
-    10 Favored Abilities
-     3 Specs
+    11 Favored Abilities
+     2 Specs
 
 ##Mundane Inventory
 
@@ -79,7 +79,7 @@
     Essence       2   *Compassion    3    Temperance    1
     Willpower     8    Conviction    2    Valor         3
     Personal      12   Peripheral   29
-    Commited      19   (Water prot)
+    Commited      15   (Water prot)
 
     DDV           5    Perf DDV      8
     MDV           6    Lying DV      5
