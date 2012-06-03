@@ -18,7 +18,7 @@
                   Air
                   Earth
                   Fire
-                  Genesis
+                  Fate
                   Magitech
     *Investigate  ●●●○○
     &Integrity    ●●●○○
