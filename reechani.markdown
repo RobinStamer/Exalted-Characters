@@ -1,3 +1,8 @@
+#Reechani Sentrosi Vasi
+
+*Caste*: Secrets
+*Motivation*: Understand the purpose of the secret he keeps
+
 ##Attributes
 
      Strength     ●○○○○       Charisma      ●●○○○       Perception    ●●●○○
