@@ -34,8 +34,10 @@
 
 ##Colleges
 
-     Captain      ●●○○○
+     Gull         ●●○○○
     *Mask         ●●●●●
+     Crow         ○○○○○
+     Sword        ○○○○○
 
 ##Backgrounds
 
@@ -49,7 +51,7 @@
      Savant       ●●●○○
      Sifu         ●●●○○
          [5DS, White Veil, Golden Janisary]
-         [Crystal Chameleon, Water Dragon, Black Claw]
+         [Crystal Chameleon, Water Dragon, Crane]
          [Sapphire Veil of Passion, Parasmatic Arrangement of Creation]
 
 ##BP
@@ -59,25 +61,31 @@
     11 Favored Abilities
      2 Specs
 
+##Experience
+
+     0 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
+     8 2012-06-03
+
 ##Mundane Inventory
 
 ###IRA
 
-    9 people's  traveling supplies (food, sewing kits, med kits, etc...)
+    9 people's  traveling supplies (sewing kits, med kits, etc...)
     90 month's  trail rations
 
 ##Intimacies
 
     Gold Faction                     ●●     Loyalty
     The secret                       ●●     Honor
+    Ruby                             ●●     Interest
 
 ##Attacks
 
     Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
     Fist                    5      14        1B      3     --      15  8
     Starmetal Daiklave Fist 5      17        9L/2    3             17  9
-    Kick                    6      10        4B      2     --      11  8
-    Starmetal Daiklave Kick 6      13        11L/2   2             11  8
+    Kick                    6      10        4B      2     --      11  6
+    Starmetal Daiklave Kick 6      13        12L/2   2             13  7
 
 ###Resources
 
@@ -131,3 +139,7 @@
 
     3m      Sup    Secrets of Future Strife                : (MA) dice from JB converted to sux
     5m1wp   Ref 1  Blade of the Battle Maiden              : Obvious, Scene, Add Starmetal Daiklave stats to MA attacks, or Starmetal stats to weapons
+
+####Thronw Shadow
+
+    1m      Dram   Sifu's Useful Fingers                   : Indef, make target a Shadow Finger, they get +MA to their MDV.  Max 2E, know when they're attacked.
