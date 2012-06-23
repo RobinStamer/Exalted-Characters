@@ -63,8 +63,11 @@
 
 ##Experience
 
-     0 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
-     8 2012-06-03
+     2 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
+     8 2012-06-03      18 Essence 3                                  Instant
+     8 2012-06-10
+     8 2012-06-17
+
 
 ##Mundane Inventory
 
@@ -92,7 +95,7 @@
     Essence       2   *Compassion    3    Temperance    1
     Willpower     8    Conviction    2    Valor         3
     Personal      12   Peripheral   29
-    Commited      15   (Water prot)
+    Commited      17   (Water prot, SUF: Ruby, Tia)
 
     DDV           5    Perf DDV      8
     MDV           6    Lying DV      5
@@ -140,6 +143,6 @@
     3m      Sup    Secrets of Future Strife                : (MA) dice from JB converted to sux
     5m1wp   Ref 1  Blade of the Battle Maiden              : Obvious, Scene, Add Starmetal Daiklave stats to MA attacks, or Starmetal stats to weapons
 
-####Thronw Shadow
+####Throne Shadow
 
     1m      Dram   Sifu's Useful Fingers                   : Indef, make target a Shadow Finger, they get +MA to their MDV.  Max 2E, know when they're attacked.
