@@ -6,7 +6,7 @@
 
 ##Attributes
 
-    *Strength     ●●●●●      &Charisma      ●●●●●       Perception    ●●●○○
+    *Strength     ●●●●●      &Charisma      ●●●●○       Perception    ●●●○○
      Dexterity    ●●●●●      &Manipulation  ●●●●○       Intelligence  ●●●○○
     *Stamina      ●●●○○       Appearance    ●●●●●       Wits          ●●●○○
 
@@ -78,7 +78,7 @@
     Essence       2   *Compassion    1    Temperance    3
     Willpower     8    Conviction    2    Valor         5
     Personal      18   Peripheral   44
-    Commited      19   (TaTM: Tats, QAT)
+    Commited      23   (TaTM: Tats, QAT, Bauble
 
     DDV           4
     MDV           6    Lying DV      2
@@ -97,9 +97,9 @@
 
 ###Spirit
 
-                   Paper Tiger Arrangement                 : Illusion, terrifying shapes/sounds in fog
-                   Shapechange                             : Fog tentacles
-                   Weather Control                         : Make a creeping fog
+    5m      Sim    Paper Tiger Arrangement                 : Scene, Illusion, UMI(3/1), terrifying shapes/sounds in fog, (E + Conv) sux on mental attack
+    5m      Sim    Shapechange                             : Scene, Obvious, Fog tentacles
+    10m     Ref    Weather Control                         : E hours, make a creeping fog
 
 ###Strength (1)
 
