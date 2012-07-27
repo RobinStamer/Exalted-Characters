@@ -7,6 +7,7 @@
  * Drive, Firearms and Lore Charms from Shards are allowed
  * Available backgrounds: Allies, Backing, Contacts, Cult, Familiar, Followers,Henchmen, Influence, Retainers, Past Life
  * Artifact only available if there's a means to get them (IE: a crafter)
+ * Sorcery initiation Charms include their counterspell and one other, provided there's a means to become initiated.
 
 #Solars
 
@@ -36,4 +37,4 @@
  * +5 Charms
  * 9/7/5 Attributes
  * Essence is 8bp
- * Consider all installed Charms capable of being in an array being in the same array.
+ * Consider all installed Charms capable of being in an array being in the same array.  Array mote reduction is 1/2 instead of 3/4
