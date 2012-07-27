@@ -8,14 +8,19 @@
  * Available backgrounds: Allies, Backing, Contacts, Cult, Familiar, Followers,Henchmen, Influence, Retainers, Past Life
  * Artifact only available if there's a means to get them (IE: a crafter)
 
+#Solars
+
+ * Can be free of the great curse with a 6pts mutation
+
 #Lunars
 
  * 9/7/5 Attributes
- * Knacks cost 4bp
+ * Knacks cost 3bp
  * Charms cost 4/5bp
  * Start with 2 free knacks and 1 free Charm
  * Essence is 8bp
  * Can take 2nd Circle Necromancy
+ * Can use Resonance instead of the great curse.
 
 #Sidereal
 
