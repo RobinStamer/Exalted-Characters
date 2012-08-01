@@ -71,7 +71,7 @@
     Kick                    5       9        7B      2     --      5  3
     Tail Clinch             6      15        4B      1     --     --
 
-###Resources
+##Resources
 
     Essence       2   *Compassion    1    Temperance    3
     Willpower     8    Conviction    2    Valor         4
@@ -85,6 +85,12 @@
     Nat Soak       5B   2L   0A
     QAT std       11B   8L   0A
     QAT max       17B  14L   0A
+
+##Forms
+
+    1m        Sea Dragon               15   2  12
+    3m        Yeddim                   14   2  11
+    3m        Steel Shadow              4   4   4  +4B/12L natural soak; bird
 
 ##Charms
 
