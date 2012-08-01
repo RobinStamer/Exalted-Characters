@@ -6,9 +6,9 @@
 
 ##Attributes
 
-    *Strength     ●●●●●      &Charisma      ●●●●○       Perception    ●●●○○
-     Dexterity    ●●●●●      &Manipulation  ●●●●○       Intelligence  ●●●○○
-    *Stamina      ●●●○○       Appearance    ●●●●●       Wits          ●●●○○
+    *Strength     ●●●●○      &Charisma      ●●●●○       Perception    ●●●○○
+     Dexterity    ●●●○○      &Manipulation  ●●●●○       Intelligence  ●●●○○
+    *Stamina      ●●●●●       Appearance    ●●●●●       Wits          ●●●○○
 
 ##Abilities
 
@@ -40,7 +40,7 @@
 ##Backgrounds
 
      Artifact     ●●●●● [8m] Quicksilver Aegis Talisman
-     Artifact     ●●●○○ [9m] Mist Demon Tatoo (+1 Dex, Sta, Wits; +1 Awa, Integ, MA; +2 Pres [Intimidation], +1 MA [Grappling])
+     Artifact     ●●●○○ [9m] Mist Demon Tatoo (+1 Sta, Wits; +1 Awa, Integ, MA; +2 Pres [Intimidation], +1 MA [Grappling])
      Sapience     ●●○○○      Mist Demon Tatoo (Terrorize mortals who venture upon the ocean or live upon the shore)
      Mentor       ●○○○○      Ten Strikes From The Deep, Akuma Changing Moon
      Artifact     ●○○○○      Winged Messenger Bauble (1m to send a message 1 mile)
@@ -53,9 +53,7 @@
      3 Strength
      3 Charisma
      3 Willpower
-     2 Valor
-     1 Heart's Blood
-    -2 HB Addiction     See new form, roll Temp, if fail -1i to all actions unless hunting it, WP to ignore pen
+     1 Valor
     -5 Nightmares       Can't sleep without waking up from nightmares, no Conviction roll to regain WP
 
 ##Experience
@@ -69,23 +67,24 @@
 ##Attacks
 
     Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
-    Fist                    5      10        5B      3     --     11  6
-    Kick                    5       9        8B      2     --      7  4
-    Tail Clinch             6      16        5B      1     --     --
+    Fist                    5      10        4B      3     --      9  5
+    Kick                    5       9        7B      2     --      5  3
+    Tail Clinch             6      15        4B      1     --     --
 
 ###Resources
 
     Essence       2   *Compassion    1    Temperance    3
-    Willpower     8    Conviction    2    Valor         5
-    Personal      18   Peripheral   44
-    Commited      23   (TaTM: Tats, QAT, Bauble
+    Willpower     8    Conviction    2    Valor         4
+    Personal      18   Peripheral   40
+    Commited      23   (TaTM: Tats, QAT, Bauble)
 
-    DDV           4
+    DDV           3
     MDV           6    Lying DV      2
+    Movement      7    DBT Movement 12
 
-    Nat Soak       3B   1L   0A
-    QAT std        9B   8L   0A
-    QAT max       15B  13L   0A
+    Nat Soak       5B   2L   0A
+    QAT std       11B   8L   0A
+    QAT max       17B  14L   0A
 
 ##Charms
 
@@ -103,9 +102,11 @@
 
 ###Strength (1)
 
-###Dexterity (1)
+    4m      Ref10  Throat-Barring Hold                     : Action, Combo-NO, Instead of dealing crush damage, roll Str + MA, reduce target's soak by sux
 
-###Stamina (1)
+###Dexterity
+
+    4m+     Sim    Instinct-Driven Beast Movement          : Scene, Combo-NO, Obvious, add base movement to movement per 4m spent on this Charm.
 
 ###Charisma (1)
 
