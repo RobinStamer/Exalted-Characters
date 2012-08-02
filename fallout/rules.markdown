@@ -12,30 +12,39 @@
  * Clarification: Favored traits (including specialties) and Charms never need tutors (exception: MA Charms)
  * When using the "lowest of" for crafting, you may use the highest if the others are at least half of the highest
  * Use Revlid's mutation fix
+ * Unless the Charm upgrades an Excellency, Charms that require Excellencies do not.
 
 #Solars
 
  * Can be free of the great curse with a 6pts mutation
  * Clarification: Snake Style can be learned without a tutor
+ * SMA Charms cost 7/8bp
+ * 38 dots in Abilities
 
 #Abyssals
 
  * Hungry Ghost can be learned without a tutor
+ * SMA Charms cost 7/8bp
+ * 38 dots in Abilities
 
 #Lunars
 
  * 9/7/5 Attributes
  * Knacks cost 3bp, 1 week training time, never needs tutors
  * Charms cost 4/5bp
- * Start with 2 free knacks and 1 free Charm
+ * Start with 3 free knacks and 3 free Charms, on top of the default
  * Essence is 8bp
  * Can take 2nd Circle Necromancy
  * Can use Resonance instead of the great curse.
 
 #Sidereal
 
- * Use non-Ronin character generation
+ * Use Ronin character generation, with the following exceptions
+ ** 12 Charms
+ ** 38 dots in Abilities
+ ** Each of their Maiden's Colleges starts at one dot
  * Charms cost 4/5bp
+ * SMA Charms cost 6/7bp
  * Essence is 8bp
  * Both Charmsets are open (and available)
  * Caste/Favored Abilities cap at 4 before BP is needed
@@ -46,8 +55,9 @@
 
 #Alchemical
 
- * +1 of each Charm-slot
- * +5 Charms
+ * +2 of each Charm-slot
+ * +7 Charms
  * 9/7/5 Attributes
  * Essence is 8bp
  * Consider all installed Charms capable of being in an array being in the same array.  Array mote reduction is 1/2 instead of 3/4
+ * A purchase of a Charm can be used for 6xp worth of submodules (Must be able to fill all slots)
