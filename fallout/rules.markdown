@@ -50,8 +50,14 @@
  * Caste/Favored Abilities cap at 4 before BP is needed
  * Craft (Fate) doesn't exist unless there's a compelling reason for it to
  * Use simple astrology (from Shards)
- * Lose a dot of Paradox per month that you haven't gained any
- * Ride Charms do not force a humanoid template when using them on a Familiar.
+ * Lose a dot of Paradox every two weeks that you haven't gained any
+ * Ride Charms do not force a humanoid template when using them on a Familiar
+ * Ox-Body gives two -0 HLs
+ * Resplendant Destiny creation is considered a Prayer roll (DC 6)
+ * As a general rule, halve (rouding up) the paradox cost of any Resplendancy or Charm, the same activation of such can't give more Paradox than the Sidereal's Essence in a week.
+ ** Crow::Feather Cloak Trick (3e, 2p/week) 
+ ** Sword::Tears of the Blade (2e, 1p), against Exalted it costs an additional point of Paradox.  This bears the Shaping tag.
+ * Pattern Spider Byte is treated as ten doses of a poison with the following traits: `0B/1 day, 0, --/--, -1`  No Charms may accelerate, neutralize or otherwise alter the removal of the poison from the Sidereal.
 
 #Alchemical
 
