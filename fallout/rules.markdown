@@ -54,6 +54,7 @@
  * Ride Charms do not force a humanoid template when using them on a Familiar
  * Ox-Body gives two -0 HLs
  * Resplendant Destiny creation is considered a Prayer roll (DC 6)
+ * The "activation roll" for RDs is the prayer roll, thus RDs start with effect points equal to one less than the number of months it lasts
  * As a general rule, halve (rouding up) the paradox cost of any Resplendancy or Charm, the same activation of such can't give more Paradox than the Sidereal's Essence in a week.
  ** Crow::Feather Cloak Trick (3e, 2p/week) 
  ** Sword::Tears of the Blade (2e, 1p), against Exalted it costs an additional point of Paradox.  This bears the Shaping tag.
