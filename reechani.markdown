@@ -25,10 +25,10 @@
     *Larceny      ●●●●●
      Linguistics  ●○○○○
     *Lore         ●●●○○
-    &Martial Arts ●●●●● (Fists) 3
+    &Martial Arts ●●●●● (Unarmed) 3
     *Occult       ●●●○○
     &Performance  ●●●●● (Persuasion) 3
-     Resistance   ●●●○○
+     Resistance   ●●●●○
      Socialize    ●●●○○ (Lying) 2
     *Stealth      ●●●●●
 
@@ -44,7 +44,7 @@
      Artifact     ●●○○○ [0m] (Divinity Requisition Badge [+7 sux to prayers])
      Artifact     ●●●●○ [5m] (IRA: Starmetal/Moonsilver)
      Artifact     ●●●●○ [1m] (Wings of the Raptor; (10m) 80 MPH, +6 Stealth dice)
-     --Artifact     ●●●●○ [5m] (Amulet of Shadow Walking, 10m insub, 5m teleport 10E yards [misc])
+     Artifact     ●●●●○ [5m] (Amulet of Shadow Walking, 10m insub, 5m teleport 10E yards [misc])
      Artifact     ●●●○○ [4m] (Jade HS Bracers, -1 Speed)
      Manse        ●●●●○ Sheilding Block (1wp) +2E Soak, +2E Hardness (stackable) for one scene
      Salary       ●●○○○
@@ -63,10 +63,18 @@
 
 ##Experience
 
-     2 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
+     8 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
      8 2012-06-03      18 Essence 3                                  Instant
-     8 2012-06-10
-     8 2012-06-17
+     8 2012-06-10       9 AoSW                                       DEBT
+     8 2012-06-24       2 Manse (Combined)                           DEBT
+     8 2012-07-01       6 Resistance 4                               DEBT
+     8 2012-07-08       9 Sheild of Destiny                          In-game
+     8 2012-07-15       9 Valor                                      DEBT
+     8 2012-07-22
+     8 2012-07-29
+     8 2012-08-05
+     8 2012-08-12
+    26 DEBT            26
 
 
 ##Mundane Inventory
@@ -86,24 +94,23 @@
 
     Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
     Fist                    5      14        1B      3     --      15  8
-    Starmetal Daiklave Fist 5      17        9L/2    3             17  9
-    Kick                    6      10        4B      2     --      11  6
-    Starmetal Daiklave Kick 6      13        12L/2   2             13  7
+    Kick                    5      13        4B      2     --      11  6
+    Starmetal Daiklave      5      16        9L/2    3             15  8
 
 ###Resources
 
-    Essence       2   *Compassion    3    Temperance    1
-    Willpower     8    Conviction    2    Valor         3
-    Personal      12   Peripheral   29
-    Commited      17   (Water prot, SUF: Ruby, Tia)
+    Essence       3   *Compassion    3    Temperance    1
+    Willpower     8    Conviction    2    Valor         4
+    Personal      14   Peripheral   36
+    Commited      22   (Water prot, SUF: Ruby, Tia)
 
-    DDV           5    Perf DDV      8
-    MDV           6    Lying DV      5
+    DDV           6    Perf DDV      8
+    MDV           7    Lying DV      5
 
     Nat Soak       1B   0L   0A
     Armor Soak     6B   5L   5A
-    Optimistic SP 11B  10L  10A
-    Shielding B   15B  14L  14A
+    Optimistic SP 13B  12L  12A
+    Shielding B   19B  18L  12A
 
 ##Charms
 
@@ -111,6 +118,7 @@
 
     5m1w1B  S5,-1  Fire and Water Treaty                   : Indef, Protection from Element (must have sample)
     5m      Ref 7  Optimistic Security Practice            : Scene, +E+Res Soak
+    3m1w    Ref 7  Shield of Destiny                       : Indef, roll (Dex+Res), remove sux dice from post-soak down to 1 die.  Save that to counter-attack someone with it later.
 
 ###Craft
 

@@ -1,6 +1,6 @@
 #General
 
- * Players may trade a Caste Attribute/Ability for a Favored
+ * Non-Alchemicals may trade a Caste Attribute/Ability for a Favored
  * BP-based advancement.  I am expecting non-optimized characters.
  * Craft doesn't have sub-abilities, each Craft type is its own specialty
  * Unlimited Specialties per ability, each is capped at 1 dot
@@ -13,6 +13,8 @@
  * When using the "lowest of" for crafting, you may use the highest if the others are at least half of the highest
  * Use Revlid's mutation fix
  * Unless the Charm upgrades an Excellency, Charms that require Excellencies do not.
+ * If a player loses a paid background during play they are refunded the cost (eg: familiar dies)
+ * Charms that cost XP don't unless they provide a trait, at which point they cost the BP cost of the trait and provide it as a Training effect (IE: paid with BP-debt)
 
 #Solars
 
@@ -26,6 +28,7 @@
  * Hungry Ghost can be learned without a tutor
  * SMA Charms cost 7/8bp
  * 38 dots in Abilities
+ * When purchasing a Taint Charm the player selects the non-Taint or Taint version.  They may optionally pay the BP cost to switch later on.
 
 #Lunars
 
@@ -36,6 +39,7 @@
  * Essence is 8bp
  * Can take 2nd Circle Necromancy
  * Can use Resonance instead of the great curse.
+ * Heart's Blood is Training effect gained when new forms are aquired.
 
 #Sidereal
 
@@ -68,3 +72,12 @@
  * Essence is 8bp
  * Consider all installed Charms capable of being in an array being in the same array.  Array mote reduction is 1/2 instead of 3/4
  * A purchase of a Charm can be used for 6xp worth of submodules (Must be able to fill all slots)
+ * Modified Charms
+ ** Dedicated Harmonic Targetting::Armor-Bypassing Algorythms -- changed to: no surchage, ignores 2E points of armored soak
+ ** Integrated Artifact Transmorgifier::Loom Server Migration -- removed, redundant as Alchemicals are now under Fate
+ ** Optical Enhancement::Cross Phase Scanners -- A single 4xp purchase provides the benefits of both purchases
+ ** Optical Enhancement::Essence Sight Occulars -- Activation cost is (12 - E)m, 0w; does not flare Anima, requires Cross Phase Scanners
+
+#Artifacts
+
+ * Beam-weapons are Art + 1 (not Art + 2), they are incompatable with MM-types.  Halve PDV from non-magical sources (Artifact weapons, Charm-augmented PDVs and E4+ defenders), automatically destroy non-magical weapons (E4+ MAist's count as magical weapons, Extras using their fists can have thier fists cut off) used to parry (step 10), MAists using PDV take an additional 2LL (step 7), subtract the damage bonus of the weapon on all mundane armor used to block the attack (step 10) armor that provides 0 soak is rendered unusable.  Weapon is inert until 5m are spent to activate it.
