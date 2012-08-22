@@ -63,18 +63,19 @@
 
 ##Experience
 
-     8 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
+     9 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
      8 2012-06-03      18 Essence 3                                  Instant
      8 2012-06-10       9 AoSW                                       DEBT
      8 2012-06-24       2 Manse (Combined)                           DEBT
      8 2012-07-01       6 Resistance 4                               DEBT
      8 2012-07-08       9 Sheild of Destiny                          In-game
      8 2012-07-15       9 Valor                                      DEBT
-     8 2012-07-22
+     8 2012-07-22      12 Stamina 4                                  DEBT
      8 2012-07-29
      8 2012-08-05
      8 2012-08-12
-    26 DEBT            26
+    12 2012-08-19
+    38 DEBT            38
 
 
 ##Mundane Inventory
@@ -102,7 +103,7 @@
     Essence       3   *Compassion    3    Temperance    1
     Willpower     8    Conviction    2    Valor         4
     Personal      14   Peripheral   36
-    Commited      22   (Water prot, SUF: Ruby, Tia)
+    Commited      25   (Water prot, SUF: Ruby, Tia, SoD [5])
 
     DDV           6    Perf DDV      8
     MDV           7    Lying DV      5

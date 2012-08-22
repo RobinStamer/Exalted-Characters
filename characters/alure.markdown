@@ -37,6 +37,16 @@
      Performance    Oration        ●●○
      Presence       Intimidation   ●●○
 
+##Attacks
+
+    Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
+    Fist                    5      10        4B      3     --      9  5
+    Kick                    5       9        7B      2     --      5  3
+    Tail Clinch             6      15        4B      1     --     --
+
+    *Deadly Bestman Transformation adds 1 to Accuracy and Damage for all attacks
+    **All attacks are subject to the -3 no sleep penalty
+
 ##Backgrounds
 
      Artifact     ●●●●● [8m] Quicksilver Aegis Talisman
@@ -63,13 +73,6 @@
     Linthia                          ●●●    Loyalty
     Ten Strikes From The Deep        ●●●    Respect
     Kimberly                         ●●●    Reverence
-
-##Attacks
-
-    Name                    Speed  Accuracy  Damage  Rate  Range  Defense  Notes
-    Fist                    5      10        4B      3     --      9  5
-    Kick                    5       9        7B      2     --      5  3
-    Tail Clinch             6      15        4B      1     --     --
 
 ##Resources
 
