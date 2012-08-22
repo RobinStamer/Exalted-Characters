@@ -43,9 +43,14 @@
     Fist                    5      10        4B      3     --      9  5
     Kick                    5       9        7B      2     --      5  3
     Tail Clinch             6      15        4B      1     --     --
+    QAT Blade Min           4       6        6L/2    3     --      4  2    Th
+    QAT Blade Standard      4       6        8L/2    3     --      5  3    Th
+    QAT Blade Max           4       6        14L/2   3     --      8  4    Th
+    QAT Lash Standard       4      17        7L/2    4     --     13  6
 
     *Deadly Bestman Transformation adds 1 to Accuracy and Damage for all attacks
     **All attacks are subject to the -3 no sleep penalty
+    ***QAT /lash/ (not blade) is made by an independent entity
 
 ##Backgrounds
 
