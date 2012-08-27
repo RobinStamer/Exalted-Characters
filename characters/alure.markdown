@@ -50,7 +50,7 @@
 
     *Deadly Bestman Transformation adds 1 to Accuracy and Damage for all attacks
     **All attacks are subject to the -3 no sleep penalty
-    ***QAT /lash/ (not blade) is made by an independent entity
+    ***QAT /lash/ (not blade) is made by an independent entity, which is why it rounds down for the PDV.
 
 ##Backgrounds
 
