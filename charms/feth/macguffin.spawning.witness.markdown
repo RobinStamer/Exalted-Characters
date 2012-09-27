@@ -4,7 +4,7 @@
 **Type:** Reflexive<br />
 **Keywords:** Sorcerous, Theatric<br />
 **Duration:** Indefinate<br />
-**Prerequisite Charms:** None
+**Prerequisite Charms:** [Conveniently Colored Actors](conveniently.colored.actors.markdown)
 
 FLUFF FLUFF FLUFF.
 A character looking for a solution finds a physical object that provides that solution, the object is not wholely real, but for all purposes it is when the Infernal observes it.
