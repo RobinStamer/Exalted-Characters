@@ -8,3 +8,4 @@
 
 FLUFF FLUFF FLUFF.
 The Infernal may use an reflective surface that reflects that which is in the same Realm of Existance as a vision source, enabling her to see everything that would be reflected on the surface from any possible angle.
+Each surface used in this manner counts as a single vision source.
