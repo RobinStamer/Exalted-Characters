@@ -2,7 +2,7 @@
 
 **Cost:** 3m; **Mins:** Essence 1<br />
 **Type:** Simple<br />
-**Keywords:** Compulsion, Social, Theatric<br />
+**Keywords:** Combo-Ok, Compulsion, Social, Theatric<br />
 **Duration:** One monologue<br />
 **Prerequisite Charms:** [Conveniently Colored Actors](conveniently.colored.actors.markdown)
 
