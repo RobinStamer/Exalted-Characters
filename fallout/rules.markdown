@@ -1,3 +1,5 @@
+You may wish to read the [FAQ](faq.markdown)
+
 #General
 
  * Non-Alchemicals may trade a Caste Attribute/Ability for a Favored
