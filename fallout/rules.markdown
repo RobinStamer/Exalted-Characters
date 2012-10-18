@@ -46,9 +46,11 @@ You may wish to read the [FAQ](faq.markdown)
 #Sidereal
 
  * Use Ronin character generation, with the following exceptions
+
  ** 12 Charms
  ** 38 dots in Abilities
  ** Each of their Maiden's Colleges starts at one dot
+
  * Charms cost 4/5bp
  * SMA Charms cost 6/7bp
  * Essence is 8bp
@@ -62,6 +64,7 @@ You may wish to read the [FAQ](faq.markdown)
  * Resplendant Destiny creation is considered a Prayer roll (DC 6)
  * The "activation roll" for RDs is the prayer roll, thus RDs start with effect points equal to one less than the number of months it lasts
  * As a general rule, halve (rouding up) the paradox cost of any Resplendancy or Charm, the same activation of such can't give more Paradox than the Sidereal's Essence in a week.
+
  ** Crow::Feather Cloak Trick (3e, 2p/week) 
  ** Sword::Tears of the Blade (2e, 1p), against Exalted it costs an additional point of Paradox.  This bears the Shaping tag.
  * Pattern Spider Byte is treated as ten doses of a poison with the following traits: `0B/1 day, 0, --/--, -1`  No Charms may accelerate, neutralize or otherwise alter the removal of the poison from the Sidereal.
@@ -75,6 +78,7 @@ You may wish to read the [FAQ](faq.markdown)
  * Consider all installed Charms capable of being in an array being in the same array.  Array mote reduction is 1/2 instead of 3/4
  * A purchase of a Charm can be used for 6xp worth of submodules (Must be able to fill all slots)
  * Modified Charms
+ 
  ** Dedicated Harmonic Targetting::Armor-Bypassing Algorythms -- changed to: no surchage, ignores 2E points of armored soak
  ** Integrated Artifact Transmorgifier::Loom Server Migration -- removed, redundant as Alchemicals are now under Fate
  ** Optical Enhancement::Cross Phase Scanners -- A single 4xp purchase provides the benefits of both purchases

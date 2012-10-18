@@ -1,3 +1,5 @@
+#General
+
 ##Where are the house rules?
 
 [Here.](rules.markdown)
@@ -26,3 +28,9 @@ Over IRC
 * IC Channel: #ExaltedOut
 * OOC Channel: #Exalted
 * Extra Channel: #Extra (for party splits)
+
+#Plot/Fluff
+
+##What do we know of the Exalted universe?
+
+Not much, you have visions of your past lives, but you can't speak any language they know so you don't have and context clues from that.  You know they were fighting something and eventually were killed in the fight.  You do know the creatures coming from the rifts (fae and bordermarches, respectively) were present during some of those fights.
