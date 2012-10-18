@@ -46,11 +46,9 @@ You may wish to read the [FAQ](faq.markdown)
 #Sidereal
 
  * Use Ronin character generation, with the following exceptions
-
- ** 12 Charms
- ** 38 dots in Abilities
- ** Each of their Maiden's Colleges starts at one dot
-
+    * 12 Charms
+    * 38 dots in Abilities
+    * Each of their Maiden's Colleges starts at one dot
  * Charms cost 4/5bp
  * SMA Charms cost 6/7bp
  * Essence is 8bp
