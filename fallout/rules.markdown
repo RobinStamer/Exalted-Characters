@@ -81,6 +81,7 @@ You may wish to read the [FAQ](faq.markdown)
     * Integrated Artifact Transmorgifier::Loom Server Migration -- removed, redundant as Alchemicals are now under Fate
     * Optical Enhancement::Cross Phase Scanners -- A single 4xp purchase provides the benefits of both purchases
     * Optical Enhancement::Essence Sight Occulars -- Activation cost is (12 - E)m, 0w; does not flare Anima, requires Cross Phase Scanners
+    * Precalculated Evasion System::Transphase Engine -- The Alchemical may activate the utility function (passing through walls) without dodging an attack for a cost of 5m
 
 #Artifacts
 
