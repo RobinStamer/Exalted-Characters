@@ -39,6 +39,12 @@ You may wish to read the [FAQ](faq.markdown)
  * Knacks cost 3bp, 1 week training time, never needs tutors
  * Charms cost 4/5bp
  * Start with 3 free knacks and 3 free Charms, on top of the default
+ * Chimerism is not an issue, use the three main Castes
+ * Attribute specialties:
+    * Get one bonus point worth of specialties when purchasing that one Charm
+    * Stack with Ability Specialties (up to the 3 point limit)
+    * Apply to static values
+    * Examples: Dexterity (movement) (includes jumping), Stamina (soak) (all natural soak, and meeting charm minimums for soak Charms) and Wits (reactions) (includes dodging traps, join * rolls, etc...)
  * Essence is 8bp
  * Can take 2nd Circle Necromancy
  * Can use Resonance instead of the great curse.
