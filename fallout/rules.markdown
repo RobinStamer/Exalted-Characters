@@ -83,7 +83,7 @@ You may wish to read the [FAQ](faq.markdown)
  * Protocols are: 4bp (Man-Machine) or 5bp (God-Machine)
  * Consider all installed Charms capable of being in an array being in the same array.  Array mote reduction is 1/2 instead of 3/4
  * A purchase of a Charm can be used for 6xp worth of submodules (Must be able to fill all slots)
- * Submodules have a training time identical to what they would have if they were Charms
+ * Submodules have a training time identical to what they would have if they were Charms multiplied by (xp cost / 6)
  * Charms and submodules are trained outside of the vats, but need a 1 hour activation time, spent in the vats, to be available to use
  * Favored Charms train in (Min Essence + Min Attribute) \* 2 hours
  * Modified Charms
