@@ -29,4 +29,4 @@ standing near the source (up to Level yards away) gives you a dosage of the next
 every Level yards reduces the source's effective Level by one.
 Touching a Level 3+ source is a Trama (2 \* Level) environmental hazard dealing (Level)L Levels of damage/minute.
 
-Rads may be healed as if they were Aggrevated Damage.
+Rads may be healed as if they were Aggrevated Damage when using Charms to heal.
