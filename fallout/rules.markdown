@@ -28,6 +28,7 @@ You may wish to read the [FAQ](faq.markdown)
 #Abyssals
 
  * Hungry Ghost can be learned without a tutor
+ * Regain motes as a Solar
  * SMA Charms cost 7/8bp
  * 38 dots in Abilities
  * Ignore the Appearance/Essence rule
@@ -82,12 +83,17 @@ You may wish to read the [FAQ](faq.markdown)
  * Protocols are: 4bp (Man-Machine) or 5bp (God-Machine)
  * Consider all installed Charms capable of being in an array being in the same array.  Array mote reduction is 1/2 instead of 3/4
  * A purchase of a Charm can be used for 6xp worth of submodules (Must be able to fill all slots)
+ * Submodules have a training time identical to what they would have if they were Charms
+ * Charms and submodules are trained outside of the vats, but need a 1 hour activation time, spent in the vats, to be available to use
+ * Favored Charms train in (Min Essence + Min Attribute) \* 2 hours
  * Modified Charms
     * Dedicated Harmonic Targetting::Armor-Bypassing Algorythms -- changed to: no surchage, ignores 2E points of armored soak
     * Integrated Artifact Transmorgifier::Loom Server Migration -- removed, redundant as Alchemicals are now under Fate
     * Optical Enhancement::Cross Phase Scanners -- A single 4xp purchase provides the benefits of both purchases
     * Optical Enhancement::Essence Sight Occulars -- Activation cost is (12 - E)m, 0w; does not flare Anima, requires Cross Phase Scanners
     * Precalculated Evasion System::Transphase Engine -- The Alchemical may activate the utility function (passing through walls) without dodging an attack for a cost of 5m
+ * Modified Protocols
+    * Vats Surrogate Reweaving Technique: ((1 + Charms) \* 5)m or ((1 + target's Essence) \* 5)m -- The Alchemical may cast this either on herself or a willing Exalt.  If used on an Alchemical that Alchemical may swap one Charm for every five motes passed the first five motes spent on this spell, no more than twice the caster's Essence Charms may be swapped at one time.  Alternatively, the targetted Exalt may select Essence or, if they're an Alchemical, an Attribute; after which the selected Trait may not be trained through other means, but the Exalt pays the cost to raise it, and after the training time expires and the Protocol is cast on them again the Exalt gains the benefit of the raised trait as if they had spent that time training.
 
 #Artifacts
 
