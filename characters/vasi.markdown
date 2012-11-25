@@ -13,7 +13,7 @@
 
      Archery                  Quiver
      Athletics    ○○○○        Banner
-    *Awareness    ◐◐○         Crow
+    *Awareness    ◐◐○         Crow          ○○○
     *Bureaucracy  ◐◐●●        Haywain
     &Craft        ●●●●●       Peacock
                   Air
@@ -32,8 +32,8 @@
                   Sea Tongue
                   Autochtonian
      Lore         ◐◐◐         Teasure Trove
-    *Martial Arts ◐◐◑●●       Sword
-    *Medicine     ●●●●        Corpse
+    *Martial Arts ◐◐◑●●       Sword         ●●●●●
+    *Medicine     ●●●●        Corpse        ○○○○○
      Melee                    Spear
      Occult       ◐◐●         Sorcerer
     &Performance  ●○○○○       Musician
@@ -42,17 +42,10 @@
     &Ride         ●●●●        Messenger
      Sail                     Captain
      Socialize    ◐●●○        Lovers
-     Stealth      ◐◑○○○       Mask
+     Stealth      ◐◑○○○       Mask          ○○○○○
      Survival                 Ship's Wheel
-     Thrown       ◐●●○        Gull
+     Thrown       ◐●●○        Gull          ●●○○
      War                      Sheild
-
-##Colleges
-
-     Gull         ●●○○○
-    *Mask         ●●●●●
-     Crow         ○○○○○
-     Sword        ○○○○○
 
 ##Specialties
 
@@ -71,7 +64,7 @@
          [5DS, White Veil, Parasmatic Arrangement of Creation]
      Artifact     ●●●○○ MA Scroll
          [Sapphire Veil of Passion, Crystal Chameleon, Water Dragon, Crane]
-     Familiar     ●●●○○ Roc
+     Familiar     ●●●○○ Roc (Chimes)
      Familiar     ●●○○○ Alchemical Bird (Flight, Seeking)
      Manse        ●●●●○ Sheilding Block (1wp) +2E Soak, +2E Hardness (stackable) for one scene
      Salary       ●●○○○
@@ -88,22 +81,27 @@
 
 ##Experience
 
-    11 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
+    16 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
      8 2012-06-03      18 Essence 3                                  Instant
      8 2012-06-10       0 Linguistics 4 (Autochtonian)               DEBT
-     8 2012-06-24       8 VBoS
-     8 2012-07-01       8 VBoS
+     8 2012-06-24       8 Lotus Eye Tactics
+     8 2012-07-01       8 Lion Mouse Strategem
      8 2012-07-08       8 Fluttering Cry of Warning
      8 2012-07-15       8 Empowering Justice Redirection
      8 2012-07-22       8 Crane Form
      8 2012-07-29       8 Humbling Enlightenment Commentary
      8 2012-08-05       0 Amulet of Shadow Walking                   DEBT
-     8 2012-08-12       9 Craft                        
+     8 2012-08-12       8 Welcoming the Uninvited Guest
     12 2012-08-19       9 Craft                 
-     8 2012-08-26       8 Sifu's Useful Fingers
-     8 2012-09-02       9 Ordained Bridle of Mercury
+     8 2012-08-26       8 Throne Shadow Form
+     8 2012-09-02       8 Horrific Wreath
      8 2012-09-09       9 Blue Virvian Binding
-    14 DEBT             9
+    12 2012-09-30       8 Shadow Lost in the Court                   
+     8 2012-10-07       9 Terminate Illness
+     8 2012-10-21       8 Pneuma-Sealing Strike
+     8 2012-10-28       9 Of the Shape of the World                 2 days
+     8 2012-11-04
+    14 DEBT            14
 
 
 ##Mundane Inventory
@@ -112,6 +110,8 @@
 
     9 people's  traveling supplies (sewing kits, med kits, etc...)
     90 month's  trail rations
+    9 bundles	of rope
+    9           long swords
 
 ##Intimacies
 
@@ -128,10 +128,10 @@
 
 ###Resources
 
-    Essence       3   *Compassion    4    Temperance    1
-    Willpower     8    Conviction    2    Valor         4
-    Personal      14   Peripheral   37
-    Commited      25   (Water prot, SUF: Ruby, Tia, KES, SoD [5])
+    Essence       3    Compassion    4    Temperance    1
+    Willpower     8    Conviction    2   *Valor         4
+    Personal      14   Peripheral   36
+    Commited      28   (Water prot, SUF: Ruby, Tia, KES, Ionak, SoD [5, 4])
 
     DDV           6    Perf DDV      8
     MDV           7    Lying DV      5
@@ -152,6 +152,7 @@
 ###Craft
 
     --      Perm   Elemental Vision (Secrets)              : Compassion, TN -1, vs all Spirits and DBs associated with Water, or Craft 4+
+    -
 
 ###Integrity (2)
 
@@ -168,6 +169,10 @@
 
     //3m      Sup    Avoiding the Truth Technique            : Compassion, Illusion, UMI (3), +E sux; convinces people that what was said was a lie
 
+###Linguistics
+
+    -
+
 ###Occult
 
     3m      S5,-1  Mark of Exaltation                      : Compassion, Obvious, Scene, +1 App vs characters who see the light
@@ -177,21 +182,35 @@
 
 ###Martial Arts (2)
 
+####Crane
+
+    -
+    -
+    -
+    -
+
 ####Velvet Bier of Sorrows
 
-    3m      Sup    Secrets of Future Strife                : (MA) dice from JB converted to sux
-    5m1wp   Ref 1  Blade of the Battle Maiden              : Obvious, Scene, Add Starmetal Daiklave stats to MA attacks, or Starmetal stats to weapons
+    //3m      Sup    Secrets of Future Strife                : (MA) dice from JB converted to sux
+    //5m1wp   Ref 1  Blade of the Battle Maiden              : Obvious, Scene, Add Starmetal Daiklave stats to MA attacks, or Starmetal stats to weapons
 
 ####Throne Shadow
 
     1m      Dram   Sifu's Useful Fingers                   : Indef, make target a Shadow Finger, they get +MA to their MDV.  Max 2E, know when they're attacked.
+    -
+    -
+    -
+    -
+    -
+    -
 
 ###Medicine
 
     3m      S3,-1  Peacible Conclusion                     : Scene, Valor, touch target, remove wound pens.  If CoDeath inflict -3i Crippling.
     3m      Sup    Smooth Transition                       : Valor, deal Agg to CoDeath, 1 automatic level post-soak, ghosts pass on to Leethe
+    -
 
 ###Thrown
 
-    4m      Ref1   Willful Weapon Method                   : Scene, Temperance, ignore all e pens, missed weapons continue to seek target, reroll each action
+    //4m      Ref1   Willful Weapon Method                   : Scene, Temperance, ignore all e pens, missed weapons continue to seek target, reroll each action
     5m      S5,-1  Essence Thorn Practice                  : Attacks can pull Sid up to 20y to target
