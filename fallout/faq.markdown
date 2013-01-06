@@ -14,11 +14,11 @@ No, GSPs don't have demons available for their Exaltation process, the Yozis are
 
 ##Can I play as a Dragon-Blood?
 
-Not yet.  No bloodlines are available for you to Exalt from.
+There are chests spread out that contain seeds, once eaten those seeds give the character Breeding 5 and the ability to Exalt as a Dragon-Blooded.
 
 ##Must I start from the bunker?
 
-Yes.
+PCs used to be required to start from the bunker, players joining after game start are not limited to that.
 
 ##Where is the game taking place?
 
