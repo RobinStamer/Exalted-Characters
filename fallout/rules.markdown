@@ -95,6 +95,16 @@ You may wish to read the [FAQ](faq.markdown)
  * Modified Protocols
     * Vats Surrogate Reweaving Technique: ((1 + Charms) \* 5)m or ((1 + target's Essence) \* 5)m -- The Alchemical may cast this either on herself or a willing Exalt.  If used on an Alchemical that Alchemical may swap one Charm for every five motes passed the first five motes spent on this spell, no more than twice the caster's Essence Charms may be swapped at one time.  Alternatively, the targetted Exalt may select Essence or, if they're an Alchemical, an Attribute; after which the selected Trait may not be trained through other means, but the Exalt pays the cost to raise it, and after the training time expires and the Protocol is cast on them again the Exalt gains the benefit of the raised trait as if they had spent that time training.
 
+#Dragon-Blooded
+
+ * Breeding 5 for free
+ * 38 dots in Abilities
+ * 14 Charms
+ * 8 Specialties
+ * Charms cost 4/5bp
+ * CMA Charms cost 6/7bp
+ * Essence is 8bp
+
 #Artifacts
 
  * Beam-weapons are Art + 1 (not Art + 2), they are incompatable with MM-types.  Halve PDV from non-magical sources (Artifact weapons, Charm-augmented PDVs and E4+ defenders), automatically destroy non-magical weapons (E4+ MAist's count as magical weapons, Extras using their fists can have thier fists cut off) used to parry (step 10), MAists using PDV take an additional 2LL (step 7), subtract the damage bonus of the weapon on all mundane armor used to block the attack (step 10) armor that provides 0 soak is rendered unusable.  Weapon is inert until 5m are spent to activate it.
