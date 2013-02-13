@@ -16,7 +16,8 @@ You may wish to read the [FAQ](faq.markdown)
  * Use Revlid's mutation fix
  * Unless the Charm upgrades an Excellency, Charms that require Excellencies do not.  This applies to Excellency-likes, such as Augmentations.
  * If a player loses a paid background during play they are refunded the cost (eg: familiar dies)
- * Charms that cost XP don't unless they provide a trait, at which point they cost the BP cost of the trait and provide it as a Training effect (IE: paid with BP-debt)
+ * Charms that cost XP to use don't unless they provide a trait, at which point they cost the BP cost of the trait and provide it as a Training effect (IE: paid with BP-debt)
+ * You may train traits and Charms without spending BP, only up to (Essence) traits and/or Charms may be held in limbo this way.
 
 #Solars
 
@@ -33,6 +34,9 @@ You may wish to read the [FAQ](faq.markdown)
  * 38 dots in Abilities
  * Ignore the Appearance/Essence rule
  * When purchasing a Taint Charm the player selects the non-Taint or Taint version.  They may optionally pay the BP cost to switch later on.
+ * Charm fixes:
+    * Scribbling the Old Laws: The -3e penalty may be also be negated if the law deals with "destruction", "decay" or "depletion of resources".  The -1e penalty does not apply to groups mostly composed of ghouls.
+    * Morale-Shattering Method: No prereqs.
 
 #Lunars
 
@@ -99,7 +103,7 @@ You may wish to read the [FAQ](faq.markdown)
 
  * Breeding 5 for free
  * 38 dots in Abilities
- * 14 Charms
+ * 16 Charms
  * 8 Specialties
  * Charms cost 4/5bp
  * CMA Charms cost 6/7bp
