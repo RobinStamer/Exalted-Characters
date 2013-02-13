@@ -34,6 +34,7 @@ You may wish to read the [FAQ](faq.markdown)
  * 38 dots in Abilities
  * Ignore the Appearance/Essence rule
  * When purchasing a Taint Charm the player selects the non-Taint or Taint version.  They may optionally pay the BP cost to switch later on.
+ * Unless a Charm actually uses the Wispers trait, it does not posses the Avatar keyword
  * Charm fixes:
     * Scribbling the Old Laws: The -3e penalty may be also be negated if the law deals with "destruction", "decay" or "depletion of resources".  The -1e penalty does not apply to groups mostly composed of ghouls.
     * Morale-Shattering Method: No prereqs.
