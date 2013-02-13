@@ -17,7 +17,7 @@ You may wish to read the [FAQ](faq.markdown)
  * Unless the Charm upgrades an Excellency, Charms that require Excellencies do not.  This applies to Excellency-likes, such as Augmentations.
  * If a player loses a paid background during play they are refunded the cost (eg: familiar dies)
  * Charms that cost XP to use don't unless they provide a trait, at which point they cost the BP cost of the trait and provide it as a Training effect (IE: paid with BP-debt)
- * You may train traits and Charms without spending BP, only up to (Essence) traits and/or Charms may be held in limbo this way.
+ * You may train traits and Charms without spending BP, only up to (Essence) traits and/or Charms may be held in limbo this way.  (You do not actually gain the trait/Charm until the BP is spent)
 
 #Solars
 
