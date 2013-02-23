@@ -109,6 +109,7 @@ You may wish to read the [FAQ](faq.markdown)
  * Charms cost 4/5bp
  * CMA Charms cost 6/7bp
  * Essence is 8bp
+ * Out-of-Aspect surcharge is removed, any combo using at least one in-Aspect Charm costs 1m less (this includes one-off Charm use)
 
 #Artifacts
 
