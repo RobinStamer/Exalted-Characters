@@ -12,7 +12,7 @@
 ##Abilities
 
      Archery                  Quiver
-     Athletics    ○○○○        Banner
+     Athletics    ●●○○        Banner
     *Awareness    ◐◐○         Crow          ○○○
     *Bureaucracy  ◐◐●●        Haywain
     &Craft        ●●●●●       Peacock
@@ -22,16 +22,16 @@
                   Fate
                   Magitech
      Dodge        ◑◑○         Ewer
-     Investigate  ○           Key
+     Investigate  ○○○○        Key
     *Integrity    ◑◑          Rising Smoke
-     Larceny      ○○○         Guardians
+     Larceny      ○○○○        Guardians
     &Linguistics  ◐●●●○       Pillar
                   Flametongue
                   Old Realm
                   Low Realm
                   Sea Tongue
                   Autochtonian
-     Lore         ◐◐◐         Teasure Trove
+     Lore         ◐◐◐●        Teasure Trove
     *Martial Arts ◐◐◑●●       Sword         ●●●●●
     *Medicine     ●●●●        Corpse        ○○○○○
      Melee                    Spear
@@ -53,13 +53,14 @@
     Martial Arts                  ●●● Unarmed
     Socialize                     ●●● Lying
     Thrown                        ●●○ Shadow Weapons
-    World Shaping Artistic Vision --- In Combat
+    World Shaping Artistic Vision --- Seeking
 
 ##Backgrounds
 
      Artifact     ●●●○○ [5m] (IRA: Starmetal)
      Artifact     ●●●○○ [5m] (Amulet of Shadow Walking, 10m insub, 5m teleport 10E yards [misc])
      Artifact     ●●●○○ [4m] (Jade HS Bracers, -1 Speed)
+     Artifact     ●●●○○ [4m] (Necklace of Solar Charisma; +3 Cha/App, everyone with lower E considers me attractive)
      Artifact     ●●○○○ MA Scroll
          [5DS, White Veil, Parasmatic Arrangement of Creation]
      Artifact     ●●●○○ MA Scroll
@@ -81,7 +82,7 @@
 
 ##Experience
 
-    16 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
+    22 Sid Bonus        8 Sifu's Useful Fingers                      18 A Earth
      8 2012-06-03      18 Essence 3                                  Instant
      8 2012-06-10       0 Linguistics 4 (Autochtonian)               DEBT
      8 2012-06-24       8 Lotus Eye Tactics
@@ -99,9 +100,17 @@
     12 2012-09-30       8 Shadow Lost in the Court                   
      8 2012-10-07       9 Terminate Illness
      8 2012-10-21       8 Pneuma-Sealing Strike
-     8 2012-10-28       9 Of the Shape of the World                 2 days
-     8 2012-11-04
-    14 DEBT            14
+     8 2012-10-28       9 Of the Shape of the World                 0 days
+     8 2012-11-04      27 Essence 4                                45 days
+     8 2012-12-25       9 Icy Hand                                  0 days
+     8 2012-12-02       0 Necklace of Solar Charisma                DEBT
+    12 2012-12-09       6 Conviction 3
+     8 2013-01-20         Lore 4                                    DEBT
+     8 2013-01-27       3 Athletics 1                               0 days
+     4 2013-02-03       9 Methodology of Secrets                    0 days
+     8 2013-02-10       9 Excellent Implementation of Objectives    0 days
+     8 2013-02-17       2 Athletics 2                               0 days
+    29 DEBT            29
 
 
 ##Mundane Inventory
@@ -115,8 +124,11 @@
 
 ##Intimacies
 
-    Gold Faction                     ●●     Loyalty
-    Ruby                             ●●     Interest
+    Gold Faction                     ●●●    Loyalty
+    Ruby                             ●●●    Interest
+    Tia                              ●●●    Interest
+    KES                              ●●●    Interest
+    Ionak                            ●●●    Trust   
 
 ##Attacks
 
@@ -129,9 +141,9 @@
 ###Resources
 
     Essence       3    Compassion    4    Temperance    1
-    Willpower     8    Conviction    2   *Valor         4
-    Personal      14   Peripheral   36
-    Commited      28   (Water prot, SUF: Ruby, Tia, KES, Ionak, SoD [5, 4])
+    Willpower     8    Conviction    3   *Valor         4
+    Personal      14   Peripheral   38
+    Commited      37   (Water prot, SUF: Ruby, Tia, KES, Ionak, SoD [5, 4], EJR [6], LMS
 
     DDV           6    Perf DDV      8
     MDV           7    Lying DV      5
@@ -143,11 +155,9 @@
 
 ##Charms
 
-###Resistance
+###Bureaucracy
 
-    5m1w1B  S5,-1  Fire and Water Treaty                   : Indef, Protection from Element (must have sample)
-    5m      Ref 7  Optimistic Security Practice            : Scene, +E+Res Soak
-    3m1w    Ref 7  Shield of Destiny                       : Indef, roll (Dex+Res), remove sux dice from post-soak down to 1 die.  Save that to counter-attack someone with it later.
+    1m      SL5,-1 Icy Hand                                : Compulsion, Touch, target must act honestly and to the best of his abilities for 5 days Cha+Bur vs MDV
 
 ###Craft
 
@@ -158,13 +168,6 @@
 
     --      Perm   Slick Essence Replenishment             : Channeling Valor returns 2V motes, Medicine rolls return V motes; rewards are mutually exclusive
 
-###Performance
-
-    //--      Perm   Heart-Brightening Presentation Style    : Compassion, Perf, Bur, Pres, Soc Exs interchangable, first Compassion channel in scene is 0wp
-    //5m,1wp  S5,-1  Defesnse of Shining Joy                 : Combo-No, Scene, use Perf or Dodge for DDV, ignore Perf pens to it, reduce action pens by 1
-    //5m      Sup    Perfection in Life                      : Compassion, (must enhance belief or behavior), if the target doesn't resist they may get +1wp
-    //5m1w    SL4,-1 Song of Spirit Persuasion               : Basic, Servitude, 1 wp to resist for a scene, Intimacy is formed every 25 hours for a Story.  Can become Ally.
-
 ###Larceny
 
     //3m      Sup    Avoiding the Truth Technique            : Compassion, Illusion, UMI (3), +E sux; convinces people that what was said was a lie
@@ -172,13 +175,6 @@
 ###Linguistics
 
     -
-
-###Occult
-
-    3m      S5,-1  Mark of Exaltation                      : Compassion, Obvious, Scene, +1 App vs characters who see the light
-                                                           ; 50E yards anyone who can see the light can see all demat spirits
-                                                           ; Spirits and Secrets can see the light.
-    5m      S5,-0  Telltale Symphony                       : Basic, Hour, Sonar version of AESS (222)
 
 ###Martial Arts (2)
 
@@ -209,6 +205,26 @@
     3m      S3,-1  Peacible Conclusion                     : Scene, Valor, touch target, remove wound pens.  If CoDeath inflict -3i Crippling.
     3m      Sup    Smooth Transition                       : Valor, deal Agg to CoDeath, 1 automatic level post-soak, ghosts pass on to Leethe
     -
+
+###Occult
+
+    3m      S5,-1  Mark of Exaltation                      : Compassion, Obvious, Scene, +1 App vs characters who see the light
+                                                           ; 50E yards anyone who can see the light can see all demat spirits
+                                                           ; Spirits and Secrets can see the light.
+    5m      S5,-0  Telltale Symphony                       : Basic, Hour, Sonar version of AESS (222)
+
+###Performance
+
+    //--      Perm   Heart-Brightening Presentation Style    : Compassion, Perf, Bur, Pres, Soc Exs interchangable, first Compassion channel in scene is 0wp
+    //5m,1wp  S5,-1  Defesnse of Shining Joy                 : Combo-No, Scene, use Perf or Dodge for DDV, ignore Perf pens to it, reduce action pens by 1
+    //5m      Sup    Perfection in Life                      : Compassion, (must enhance belief or behavior), if the target doesn't resist they may get +1wp
+    //5m1w    SL4,-1 Song of Spirit Persuasion               : Basic, Servitude, 1 wp to resist for a scene, Intimacy is formed every 25 hours for a Story.  Can become Ally.
+
+###Resistance
+
+    5m1w1B  S5,-1  Fire and Water Treaty                   : Indef, Protection from Element (must have sample)
+    5m      Ref 7  Optimistic Security Practice            : Scene, +E+Res Soak
+    3m1w    Ref 7  Shield of Destiny                       : Indef, roll (Dex+Res), remove sux dice from post-soak down to 1 die.  Save that to counter-attack someone with it later.
 
 ###Thrown
 

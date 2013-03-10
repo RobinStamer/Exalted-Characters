@@ -55,6 +55,12 @@ You may wish to read the [FAQ](faq.markdown)
  * Can take 2nd Circle Necromancy
  * Can use Resonance instead of the great curse.
  * Heart's Blood is Training effect gained when new forms are aquired.
+ * Modified Charms:
+    * Silver Lunar Resolution: Additional means to regain motes:
+        * Permenantly adding a new form (1m)
+        * Killing an opponent who matches or beats your own Essence (their E in motes)
+        * Permenantly adding the form of someone who qualifies for the above (twice their E in motes, replaces both previous rewards)
+        * Training a military/social unit ((Mag)m/hour)
 
 #Sidereal
 
