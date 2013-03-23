@@ -1,6 +1,6 @@
 ##T-51
 
-###Baseline model ●●●●○
+###Baseline model ●●●○○
 
 * Repair: 3
 * Soak: 15
@@ -13,9 +13,18 @@
 * Radiation filter: +2 RDV (requires power)
 * Heavy lifting support: +4 to Strength for Feats of Stength (requires power)
 
-###Enclave model (uses Baseline as baseline) ●●●●●
+###Enclave model (uses Baseline as base) ●●●●○
 
+* Hardness: 9 (requires power, drops to 6 when out)
 * Battery: 70 hours
 * Stealth: uses 1 hour of battery for 1 minute, perfect invisibility
 * Quiet motors: +2 to Stealth for purposes of concealing the sound of own movement (requires power)
 * Radiation filter: +4 RDV
+* Air-tight: +8 resistance vs airborn pollutants (requires power)
+
+###Full Assault model (uses Baseline as base) ●●●●○
+
+* Water-tight/air-tight: +8 resistance vs airborn and contact pollutants, doesn't get damaged when wet (requires power, otherwise wearer suffocates)
+* Area cammoflage/quiet-motors: +4 to stealth (sound-based requires power, visual based depends on sub-model)
+* Reloader: automatically reloads readied weapons reflexively (ammo capacity is 4 times the weapon)
+* Injector system: carries 5 doses of a liquid-based medicine, arm button allows for reflexive injection
