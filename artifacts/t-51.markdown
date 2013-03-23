@@ -1,0 +1,21 @@
+##T-51
+
+###Baseline model ●●●●○
+
+* Repair: 3
+* Soak: 15
+* Hardness: 6
+* Mobility: 0 (-6 when out of power)
+* Fatigue: 1 (8 when out of power)
+* MM Composition: HT only
+* Battery: 50 hours
+* Air filter: +4 resistance vs airborne pollutants (requires power)
+* Radiation filter: +2 RDV (requires power)
+* Heavy lifting support: +4 to Strength for Feats of Stength (requires power)
+
+###Enclave model (uses Baseline as baseline) ●●●●●
+
+* Battery: 70 hours
+* Stealth: uses 1 hour of battery for 1 minute, perfect invisibility
+* Quiet motors: +2 to Stealth for purposes of concealing the sound of own movement (requires power)
+* Radiation filter: +4 RDV

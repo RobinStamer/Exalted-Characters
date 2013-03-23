@@ -6,7 +6,7 @@
               Subject regains alternating Stamina and Resistance every 8 hours of rest.
               Is mildly poisonous (3B/hour, 2, --/--, -2)
     Rad-X:    Increase Radiation DV by 2 for 5 hours.
-    Magical Armor: add half its rating to the RDV
+    Magical Armor: add half its rating to the RDV unless otherwise specified
 
 Rads Bar
 
