@@ -3,6 +3,7 @@ You may wish to read the [FAQ](faq.markdown)
 #General
 
  * Non-Alchemicals may trade a Caste Attribute/Ability for a Favored
+ * Use errata'd Chargen.  Unless otherwise specified, Characters have 28 dots in Abilities to spend.
  * BP-based advancement.  I am expecting non-optimized characters.
  * Craft doesn't have sub-abilities, each Craft type is its own specialty
  * Unlimited Specialties per ability, each is capped at 1 dot
